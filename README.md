@@ -18,7 +18,7 @@ Este é um jogo simples de Jokenpô (Pedra, Papel, Tesoura) com um tema inspirad
 
 Aqui está uma captura de tela do projeto:
 
-![Captura de tela do projeto](caminho/para/imagem.png)
+![Captura de tela do projeto](https://github.com/lucasriosdev/ProjetoJokenpo/blob/main/image/CapturaDeTelaProjeto.png?raw=true)
 
 ## Código
 
