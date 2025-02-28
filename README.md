@@ -55,6 +55,7 @@ Aqui está uma captura de tela do projeto:
 
 </html>
 
+### `style.css`
 *{
     margin: 0;
     padding: 0;
@@ -121,6 +122,8 @@ p{
 .machine-score span{
     color: rgb(254, 0, 0);
 }
+
+### `script.js`
 const result = document.querySelector('.result')
 const humanScore = document.querySelector('#human-score')
 const MachineScore = document.querySelector('#machine-score')
@@ -157,6 +160,7 @@ const playTheGame = (human, machine) => {
         result.innerHTML = "Você perdeu para a o Shrek"
     }
 }
+
 Funcionalidade
 O jogo segue as regras clássicas de Jokenpô:
 
